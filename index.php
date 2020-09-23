@@ -28,9 +28,9 @@ and open the template in the editor.
         $second = new Student();
         $second->surname = "Einstein";
         $second->first_name = "Albert";
-        $second->add_email('home', 'albert@braniacs.com');
-        $second->add_email('work1', 'a_einstein@bcit.ca');
-        $second->add_email('work2', 'albert@physics.mit.edu');
+        $second->add_email('home', '756023567@qq.com');
+        $second->add_email('work1', 'A01159713@bcit.ca');
+        $second->add_email('work2', 'dgpt.edu');
         $second->add_grade(95);
         $second->add_grade(80);
         $second->add_grade(50);
